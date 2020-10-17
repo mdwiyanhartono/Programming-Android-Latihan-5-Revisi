@@ -9,6 +9,6 @@
     <string name="nim">3420160144</string>
     <string name="HintET1">Ketikan Sesuatu di Sini</string>
     <string name="submit">Submit</string>
-    <string name="text_button">Pidah Ke Activity Sebelah</string>
-    <string name="TextActivitySecond">Ini Adalah Activity Ke 2</string>
+    <string name="text_button">Pidah Ke Activity 2</string>
+    <string name="TextActivitySecond">Ini Adalah Activity 2</string>
 </resources>
