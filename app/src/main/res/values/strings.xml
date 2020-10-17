@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Latihan 5</string>
+
+    <string name="Image">MainFoto</string>
+    <string name="lableNama">Nama</string>
+    <string name="titik2">:</string>
+    <string name="nama">M. Dwiyan Hartono</string>
+    <string name="lableNIM">NIM</string>
+    <string name="nim">3420160144</string>
+    <string name="HintET1">Ketikan Sesuatu di Sini</string>
+    <string name="submit">Submit</string>
 </resources>
